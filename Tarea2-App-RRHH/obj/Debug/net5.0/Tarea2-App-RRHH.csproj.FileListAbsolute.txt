@@ -1,0 +1,5 @@
+C:\Users\Edward Montero\source\repos\Tarea2-App-RRHH\Tarea2-App-RRHH\obj\Debug\net5.0\Tarea2-App-RRHH.csproj.AssemblyReference.cache
+C:\Users\Edward Montero\source\repos\Tarea2-App-RRHH\Tarea2-App-RRHH\obj\Debug\net5.0\Tarea2-App-RRHH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edward Montero\source\repos\Tarea2-App-RRHH\Tarea2-App-RRHH\obj\Debug\net5.0\Tarea2-App-RRHH.AssemblyInfoInputs.cache
+C:\Users\Edward Montero\source\repos\Tarea2-App-RRHH\Tarea2-App-RRHH\obj\Debug\net5.0\Tarea2-App-RRHH.AssemblyInfo.cs
+C:\Users\Edward Montero\source\repos\Tarea2-App-RRHH\Tarea2-App-RRHH\obj\Debug\net5.0\Tarea2-App-RRHH.csproj.CoreCompileInputs.cache
